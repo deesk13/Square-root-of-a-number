@@ -1,5 +1,11 @@
 # Find the square root of a number
 
+NAME : DEVA DHARSHINI I
+
+REGISTER NUMBER : 212223240026
+
+DEPARTMENT : AIML
+
 ## AIM:
 To write a program to find the square root of a number.
 
